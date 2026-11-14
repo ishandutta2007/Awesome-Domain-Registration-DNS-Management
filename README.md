@@ -1,6 +1,6 @@
 # Awesome-Domain-Registration-DNS-Management
 
-# Top Domain Registration & DNS Management Ecosystem
+## Top Domain Registration & DNS Management Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Registrar Operations, Authoritative DNS & Infrastructure-as-Code*  
